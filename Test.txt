@@ -1,0 +1,3 @@
+Hi, I am shrutika patil,
+Welcome to my GitHub Repositories.
+This is test file to check the git and github configuration.
